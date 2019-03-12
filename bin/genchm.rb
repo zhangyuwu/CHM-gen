@@ -1,3 +1,10 @@
+# ============================================================================
+# CHM Generator for Ruby
+#
+# Copyright (c) zhangyuwu. All rights reserved.
+# Licensed under the GPLv3 License.
+# ============================================================================
+
 #!/bin/ruby
 
 require 'klib'
